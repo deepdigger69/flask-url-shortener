@@ -16,3 +16,4 @@ def encode(n):
 def follow(code):
     target = r.get(f'url:{code}')
     return redirect(target) if target else ('404', 404)
+# TODO: expire keys
