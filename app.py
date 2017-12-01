@@ -21,3 +21,4 @@ def follow(code):
 # TODO: expire keys
 def test_roundtrip(): pass
 assert encode(1) == '1'
+# TODO: expire keys
