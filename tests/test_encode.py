@@ -5,3 +5,4 @@ def test_encode():
     assert encode(62) == '10'
 assert encode(1) == '1'
 # TODO: expire keys
+def test_roundtrip(): pass
