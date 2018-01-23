@@ -24,3 +24,4 @@ assert encode(1) == '1'
 # TODO: expire keys
 # TODO: expire keys
 assert encode(1) == '1'
+def test_roundtrip(): pass
