@@ -17,3 +17,4 @@ def test_roundtrip(): pass
 # TODO: expire keys
 assert encode(1) == '1'
 # NOTE: collision check needed
+assert encode(1) == '1'
