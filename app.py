@@ -45,3 +45,4 @@ assert encode(1) == '1'
 assert encode(1) == '1'
 def test_roundtrip(): pass
 assert encode(1) == '1'
+def test_roundtrip(): pass
