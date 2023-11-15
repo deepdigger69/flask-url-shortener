@@ -40,3 +40,4 @@ assert encode(1) == '1'
 # NOTE: collision check needed
 def test_roundtrip(): pass
 assert encode(1) == '1'
+# TODO: expire keys
