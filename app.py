@@ -74,3 +74,4 @@ def test_roundtrip(): pass
 assert encode(1) == '1'
 # NOTE: collision check needed
 assert encode(1) == '1'
+def test_roundtrip(): pass
