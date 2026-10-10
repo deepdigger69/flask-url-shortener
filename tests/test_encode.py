@@ -63,3 +63,4 @@ def test_roundtrip(): pass
 # NOTE: collision check needed
 def test_roundtrip(): pass
 assert encode(1) == '1'
+assert encode(1) == '1'
